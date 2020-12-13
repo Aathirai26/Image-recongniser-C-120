@@ -1,0 +1,64 @@
+  .heading
+  {
+    width: 80%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(241, 238, 33);
+    font-size: 35px;
+    color: deeppink;
+    border-radius: 50px;
+    background-color: honeydew;
+    border: 5px double yellowgreen;
+  }
+  .heading_div
+  {
+    float: none;
+    background: yellowgreen; 
+    border-radius: 20px; 
+    color:deeppink;
+    padding: 10px;
+    box-shadow:5px 5px 5px rosybrown;
+    font-size: 20px;
+  }
+  .heading_div2
+  {
+    font-size: 22px ;
+    color: yellowgreen;
+    background-color: deeppink;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 40px;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    color: deeppink;
+  }
+
+  body{
+    background-image: url("stars-pattern.png");
+    font-family: 'Pacifico', cursive;
+  }
+
+  .result_para_tag span{
+    white-space: pre-line;
+  }
+
+  .copy_right_footer{
+    background-color: indianred;
+    position: fixed;
+    color: lightblue;
+    bottom: 0;
+    line-height: 2.5;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  canvas{
+    border: 5px solid lightcoral;
+    border-radius: 2px;
+    box-shadow: 5px 5px 5px lightpink;
+    margin-top: 150px;
+  }
+ 
